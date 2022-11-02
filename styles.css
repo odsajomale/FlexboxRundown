@@ -99,13 +99,14 @@ justify-content: center;
 .section-three {
     background-color: lightcoral;
     height: 800px;
-
+    display: flex;
+    align items: center;
+    justify-content: center;
 }
 
 iframe { 
-    display: flex;
-align items: center;
-justify-content: center;
+    padding: 5px;
+    
 }
 
 
