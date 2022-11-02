@@ -27,7 +27,7 @@ ul {
 }
 
 .container-navigation {
-    display: flex;
+    display: row-reverse;
     flex-wrap: space-between;
 }
 
