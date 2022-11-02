@@ -27,7 +27,7 @@ ul {
 }
 
 .container-navigation {
-    display: row;
+    display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: space-between;
