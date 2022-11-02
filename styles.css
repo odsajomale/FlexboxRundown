@@ -27,8 +27,10 @@ ul {
 }
 
 .container-navigation {
-    display: row-reverse;
-    flex-wrap: space-between;
+    display: row;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-between;
 }
 
 /* section one flex grow and shrink */
