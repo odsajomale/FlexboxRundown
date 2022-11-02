@@ -120,6 +120,11 @@ align items: center;
 justify-content: center;
 }
 
+figcaption {
+font-family: cursive;
+color: white;
+
+}
 /* section 5 media items */
 
 .section-five {
