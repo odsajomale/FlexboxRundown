@@ -28,7 +28,7 @@ ul {
 
 .container-navigation {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: space-between;
 }
 
 /* section one flex grow and shrink */
