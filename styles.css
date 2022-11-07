@@ -127,7 +127,7 @@ font-family: cursive;
 color: white;
 display: flex;
 align-items: center;
-
+justify-content: center;
 }
 /* section 5 media items */
 
