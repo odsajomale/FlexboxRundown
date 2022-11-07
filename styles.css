@@ -125,6 +125,7 @@ justify-content: center;
 figcaption {
 font-family: cursive;
 color: white;
+display: flex;
 align-items: center;
 
 }
