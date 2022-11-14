@@ -191,12 +191,14 @@ padding: 10px 0px
  } 
 
  .button-one-secition {
+
 background-color: cornflowerblue;
 padding: 20px 0px;
 display: flex;
 justify-content: center;
 align-items: center;
  }
+ 
 .button-top-img {
 border:3px solid white;
 border-radius: 10px;
