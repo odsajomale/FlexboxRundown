@@ -15,9 +15,9 @@ header {
 }
 
 h1 {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 60px
-text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif,
+font-size 60px
+text-align center;
 
 }
 
@@ -90,7 +90,7 @@ background-color:aliceblue;
     background-color: orangered;
     height: 700px;
 display: flex;
-align items: center;
+align-items: center;
 justify-content: center;
 }
 
@@ -173,36 +173,36 @@ justify-content: center;
 
     button:active {
         background-color: #3e8e41;
-    box-shadow: 0 5px darkred;
-    transform: translateY(4px)
+        box-shadow: 0 5px darkred;
+        transform: translateY(4px)
     }  
 
     /* footer */
 
         footer {
-background-color: rebeccapurple;
-height: 30px;
-text-align: center;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-font-size: x-small;
-color: white; 
-padding: 10px 0px
+        background-color: rebeccapurple;
+         height: 30px;
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        font-size; x-small;
+        color: white; 
+        padding: 10px 0px
 
  } 
 
  .button-one-section {
 
-background-color: cornflowerblue;
-padding: 20px 0px;
-display: flex;
-justify-content: center;
-align-items: center;
+    background-color: cornflowerblue;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  }
 
 .button-top-img {
-border: 3px solid white;
-border-radius: 10px;
-box-shadow: 10px 10px 20px black;
-width: 70%;
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+    width: 70%;
 }
  
