@@ -210,11 +210,12 @@ h1{
  font-family: azo-sans-web, sans-serif;
 
 font-weight: 700;
-
+text-align: center;
 font-style: normal;
 }
 
 h1 {
     font-family: 'Abel', sans-serif;
+    text-align: center;
 
 }
